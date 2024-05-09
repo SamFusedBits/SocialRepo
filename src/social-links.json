@@ -2,5 +2,12 @@
     "social_media_name": "link",
     "linkedin": "https://www.linkedin.com/in/<username>",
     "github": "https://www.github.com/<username>",
-    "medium": "https://<username>.medium.com"
+    "medium": "https://<username>.medium.com",
+    "airchat": "https://www.air.chat/user/<username>",
+    "bio.link": "https://bio.link/<username>",
+    "dev.to": "https://dev.to/<username>",
+    "fiverr": "https://www.fiverr.com/<username>",
+    "hashnode": "https://hashnode.com/@<username>",
+    "leetcode": "https://leetcode.com/<username>",
+    "upwork": "https://www.upwork.com/o/profiles/users/~<username>"
 }
